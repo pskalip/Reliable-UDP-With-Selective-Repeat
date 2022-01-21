@@ -35,7 +35,7 @@ How To Run
 					> -s indicates server mode
 					> 127.0.0.1 is server IP (Localhost here)
 					> 12345 is server port.
-> If you want to simulate packet loss, uncomment the randomizer in server.py file. \
+> If you want to simulate packet loss, uncomment the randomizer in server.py file. 
 
 Receiver's Algorithm
 --------------------
@@ -69,7 +69,7 @@ Sender's Algorithm
 		>current_ack	: Stores the latest correctly recvd ack\
 		>expected_ack	: The ack which we expect\
 		>packet_list	: This the initial packet list generated from the file\
-		>window_head	: Denotes the starting of the window.\
+		>window_head	: Denotes the starting of the window.
 
 	>In the main thread, 
 		>We first convert the file into packets and store them in a list.
