@@ -20,7 +20,7 @@ The project has the following files:\
 
 How To Run
 ----------
-> **Note: The file that should be sent should be in the same directory as the sender**. \
+> **_Note: The file that should be sent should be in the same directory as the sender_**. \
 > Example for client : python3 test.py -c 127.0.0.1 12345 4 8888
  			
  			> -c indicates client mode
