@@ -65,7 +65,7 @@ Sender's Algorithm
 	>Ack thread listens to the ack's sent by the receiver\
 	>Main thread sends the packet to the receiver\
 	>We have 5 global variables shared commonly between both threads:\
-		>buffer_ack	: Stores the ack values, incase if the ack are out of order \ 
+		>buffer_ack	: Stores the ack values, incase if the ack are out of order\
 		>current_ack	: Stores the latest correctly recvd ack\
 		>expected_ack	: The ack which we expect\
 		>packet_list	: This the initial packet list generated from the file\
