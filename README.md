@@ -13,14 +13,14 @@
 This project is the implementation of a reliable UDP protocol with a file transfer layer above it. The file transfer protocol allows transferring filesof various types like gif, mp3, We used Selective Repeat Algorithm to ensure reliability. It is a better alternative to other approaches like Go-Back-N and Stop and wait, which involve unnecessary retransmissions and a significantly lowered bandwidth respectively.
 
 The project has the following files:\
-	> client.py - Class encapsulating the functions of client (such as sending)
-	> server.py - Class encapsulating server functions such as receiving.
-	> data_packet.py - Consists of various functions such as checksum, jsonify, checksumVerification that allow easier ways to handle packets in server and clients.
-	> test.py - Driver file.
+	> client.py - Class encapsulating the functions of client (such as sending)\
+	> server.py - Class encapsulating server functions such as receiving.\
+	> data_packet.py - Consists of various functions such as checksum, jsonify, checksumVerification that allow easier ways to handle packets in server and clients.\
+	> test.py - Driver file.\
 
 How To Run
 ----------
-> Note: The file that should be sent should be in the same directory as the sender. 
+> Note: The file that should be sent should be in the same directory as the sender. \
 > Example for client : python3 test.py -c 127.0.0.1 12345 4 8888
  			
  			> -c indicates client mode
@@ -30,12 +30,12 @@ How To Run
  			> 8888 is the client port to send packets.
 
 
-> Example for server: python3 test.py -s 127.0.0.1 12345
+> Example for server: python3 test.py -s 127.0.0.1 12345\
 					
 					> -s indicates server mode
 					> 127.0.0.1 is server IP (Localhost here)
 					> 12345 is server port.
-> If you want to simulate packet loss, uncomment the randomizer in server.py file. 
+> If you want to simulate packet loss, uncomment the randomizer in server.py file. \
 
 Receiver's Algorithm
 --------------------
