@@ -1,0 +1,66 @@
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+
+
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+
+
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+
+
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+
+
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+
+
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+Hello, Welcome to file transfer using UDP.
+This file will be sent from server to client over UDP connection.
+Reliability is ensured using selective repeat paradigm.
+
+
