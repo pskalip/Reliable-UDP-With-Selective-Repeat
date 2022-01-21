@@ -12,7 +12,7 @@
 
 This project is the implementation of a reliable UDP protocol with a file transfer layer above it. The file transfer protocol allows transferring filesof various types like gif, mp3, We used Selective Repeat Algorithm to ensure reliability. It is a better alternative to other approaches like Go-Back-N and Stop and wait, which involve unnecessary retransmissions and a significantly lowered bandwidth respectively.
 
-The project has the following files:
+The project has the following files:\
 	> client.py - Class encapsulating the functions of client (such as sending)
 	> server.py - Class encapsulating server functions such as receiving.
 	> data_packet.py - Consists of various functions such as checksum, jsonify, checksumVerification that allow easier ways to handle packets in server and clients.
