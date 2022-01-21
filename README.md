@@ -1,10 +1,10 @@
 # Computer-Networks
 
 ## Group Members:
-
+	
+	Shanmukh Kaliprasad Padmanabhuni - 2017B3A71048H
 	Rahul R Shevade - 2017B3A70878H
 	Kasam Vamshi - 2017B3A70740H
-	Shanmukh Kaliprasad Padmanabhuni - 2017B3A71048H
 	Pranav V Grandhi - 2017B2A71604H
 	Suhas Reddy N - 2017B4A70885H
 	Vashist SLN - 2017B3A70381H
@@ -16,7 +16,7 @@ The project has the following files:\
 	> client.py - Class encapsulating the functions of client (such as sending)\
 	> server.py - Class encapsulating server functions such as receiving.\
 	> data_packet.py - Consists of various functions such as checksum, jsonify, checksumVerification that allow easier ways to handle packets in server and clients.\
-	> test.py - Driver file.\
+	> test.py - Driver file.
 
 How To Run
 ----------
@@ -30,7 +30,7 @@ How To Run
  			> 8888 is the client port to send packets.
 
 
-> Example for server: python3 test.py -s 127.0.0.1 12345\
+> Example for server: python3 test.py -s 127.0.0.1 12345
 					
 					> -s indicates server mode
 					> 127.0.0.1 is server IP (Localhost here)
@@ -61,15 +61,15 @@ Receiver's Algorithm
 Sender's Algorithm
 -------------------
 
->We have two threads running Ack and main
-	>Ack thread listens to the ack's sent by the receiver
-	>Main thread sends the packet to the receiver
-	>We have 5 global variables shared commonly between both threads
-		>buffer_ack	: Stores the ack values, incase if the ack are out of order 
-		>current_ack	: Stores the latest correctly recvd ack
-		>expected_ack	: The ack which we expect
-		>packet_list	: This the initial packet list generated from the file
-		>window_head	: Denotes the starting of the window.
+>We have two threads running Ack and main\
+	>Ack thread listens to the ack's sent by the receiver\
+	>Main thread sends the packet to the receiver\
+	>We have 5 global variables shared commonly between both threads\
+		>buffer_ack	: Stores the ack values, incase if the ack are out of order\ 
+		>current_ack	: Stores the latest correctly recvd ack\
+		>expected_ack	: The ack which we expect\
+		>packet_list	: This the initial packet list generated from the file\
+		>window_head	: Denotes the starting of the window.\
 
 	>In the main thread, 
 		>We first convert the file into packets and store them in a list.
